@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @DigitalParacha
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on All Digital Platforms
-- 📫 you can reach me on https://www.instagram.com/a_waleed00par/
+🎮 AR Game Developer | XR Enthusiast 🚀
+I bring games to life with Augmented Reality (AR) & Extended Reality (XR)! From immersive AR experiences to interactive gameplay mechanics, I love crafting digital worlds that blend reality with imagination.
 
-<!---
-DigitalParacha/DigitalParacha is a ✨ Developer ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 Skilled in Unity, ARCore, ARKit, and Vuforia, I push the boundaries of AR gaming, constantly exploring new ways to make experiences more engaging and dynamic.
+
+If it’s about games, AR, or innovation, I’m all in! Let’s create something awesome. 🔥
+
+📈 Let’s Connect!
+💼 https://www.linkedin.com/in/ahmed-waleed-206559227/ | 📩 ahmedwaleed.paracha@gmail.com
